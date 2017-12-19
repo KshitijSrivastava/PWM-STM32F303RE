@@ -1,2 +1,8 @@
 # PWM-STM32F303RE
-Simple PWM with CubeMX
+PWM Examples with CubeMX
+Simple PWM
+Output Compare
+Output Compare with DMA: For see it in osciloscope, must be using single sequence
+
+
+
